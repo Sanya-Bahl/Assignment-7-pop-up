@@ -4,8 +4,19 @@
     height: 300px;
     width: 700px;
     visibility: hidden;
+    border: 2px solid red;
 }
-
+.clicks
+{
+    padding: 10px;
+    font-size: 20px;
+    border-radius: 20px;
+}
+.clicks:hover
+{
+    background-color: rgb(243, 121, 121);
+    font-weight: bold;
+}
 body{
     background-color: black;
 }
